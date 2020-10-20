@@ -1,0 +1,1 @@
+export const APIURL = "https://api.openweathermap.org/data/2.5/forecast?id=2768279&appid=47de14068d893dfa372d4ed60b16a254"
